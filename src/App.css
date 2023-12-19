@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.cont {
+  background-color: rgb(201, 196, 188);
+  padding: 2px 22px 18px 22px;
+  border-radius: 8px;
+}
+
+.main {
+  color: rgb(225, 138, 228);
+}
+
+.increment {
+  background-color: rgb(225, 138, 228);
+  color: white;
+  font-weight: bold;
+  margin-right: 12px;
+}
+
+.decrement {
+  background-color: rgb(225, 138, 228);
+  color: white;
+  font-weight: bold;
+  margin-right: 12px;
+}
